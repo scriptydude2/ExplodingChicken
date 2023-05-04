@@ -1,0 +1,4 @@
+name: ExplodingChicken
+version: '1.0'
+main: me.scriptydude.explodingchicken.ExplodingChicken
+api-version: 1.19
